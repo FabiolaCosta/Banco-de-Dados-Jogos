@@ -12,3 +12,11 @@ A ideia é trabalhar códigos em SQL.
 </div>
 
 🎮Link do jogo: https://sql-island.informatik.uni-kl.de/
+<br>
+
+## SQL Mistério do Assassinato
+🎮Link do jogo: https://mystery.knightlab.com/
+<br>
+
+## Storyline
+🎮Link: https://storyline.knightlab.com/
