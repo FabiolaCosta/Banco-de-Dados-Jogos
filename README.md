@@ -15,6 +15,9 @@ A ideia é trabalhar códigos em SQL.
 <br><br>
 
 ## SQL Mistério do Assassinato
+
+O SQL Murder Mystery foi projetado para ser uma lição autodirigida para aprender conceitos e comandos SQL
+
 🎮Link do jogo: https://mystery.knightlab.com/
 <br><br>
 
